@@ -13,3 +13,7 @@
 "show  tab characters. Visual Whitespace.
  set listchars=tab:>-,trail:-
  set list
+
+set smarttab
+
+filetype plugin indent on
